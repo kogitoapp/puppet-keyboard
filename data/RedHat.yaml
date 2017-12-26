@@ -1,0 +1,5 @@
+---
+keyboard::package_name:
+  - ''
+keyboard::default_file: ''
+keyboard::update_command: ''

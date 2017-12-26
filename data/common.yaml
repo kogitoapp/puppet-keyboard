@@ -1,0 +1,10 @@
+---
+keyboard::model: 'pc105'
+keyboard::layout: 'us'
+keyboard::variant: ''
+keyboard::options: ''
+keyboard::backspace: 'guess'
+keyboard::package_ensure: 'present'
+keyboard::package_manage: true
+keyboard::default_file: ''
+keyboard::update_command: ''

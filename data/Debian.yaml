@@ -1,0 +1,5 @@
+---
+keyboard::package_name:
+  - 'keyboard-configuration'
+keyboard::default_file: '/etc/default/keyboard'
+keyboard::update_command: 'dpkg-reconfigure -f noninteractive keyboard-configuration'
