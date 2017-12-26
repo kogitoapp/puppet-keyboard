@@ -88,6 +88,8 @@ are Known Issues, you might want to include them under their own heading here.
 Since your module is awesome, other users will want to play with it. Let them
 know what the ground rules for contributing are.
 
+This module uses [git journal][git-journal] to keep the CHANGELOG up to date.
+
 [pdk-generated-parts]: https://docs.puppet.com/pdk/1.0/pdk_generating_modules.html#module-contents
 
 [build-status]: https://travis-ci.org/kogitoapp/puppet-keyboard
@@ -96,3 +98,5 @@ know what the ground rules for contributing are.
 [forge-shield]: https://img.shields.io/puppetforge/v/kogitoapp/keyboard.svg
 [forge-shield-dl]: https://img.shields.io/puppetforge/dt/kogitoapp/keyboard.svg
 [forge-shield-sc]: https://img.shields.io/puppetforge/f/kogitoapp/keyboard.svg
+
+[git-journal]: https://github.com/saschagrunert/git-journal
